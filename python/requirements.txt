@@ -1,2 +1,2 @@
 wheel
-sphinx
+Sphinx==1.6.6
