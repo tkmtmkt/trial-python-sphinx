@@ -20,10 +20,10 @@ $ ./python/offline-install.sh
 実行
 ----
 
-python仮想環境を有効化する。
+作業用シェルを起動する。
 
 ```sh
-$ source python/sphinx/bin/activate
+$ ./python/shell.sh
 ```
 
 ```sh
