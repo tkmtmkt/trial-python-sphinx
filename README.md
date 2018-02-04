@@ -1,5 +1,5 @@
-study-sphinx
-============
+study-python-sphinx
+===================
 
 環境設定
 --------
