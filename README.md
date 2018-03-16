@@ -23,7 +23,7 @@ $ ./python/offline-install.sh
 作業用シェルを起動する。
 
 ```sh
-$ ./python/shell.sh
+$ ./bin/shell.sh
 ```
 
 ```sh
