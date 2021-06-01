@@ -32,5 +32,5 @@ sphinxcontrib-imagehelper==1.1.1
 sphinxcontrib-nwdiag==0.9.5
 sphinxcontrib-seqdiag==0.8.5
 sphinxcontrib-websupport==1.0.1
-urllib3==1.22
+urllib3==1.26.5
 webcolors==1.8.1
