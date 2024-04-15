@@ -1,4 +1,4 @@
-study-python-sphinx
+trial-python-sphinx
 ===================
 
 環境設定
